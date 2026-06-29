@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sumanta</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./public/pictures/circleGithubProfile.png" alt="sumanta-k" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./public/pictures/circleGithubProfile.png" width="350" alt="sumanta-k" /></a> </p>
 
 - 🔭 I’m currently working on **backend-node.js**
 
