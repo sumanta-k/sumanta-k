@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sumanta</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanta-k" alt="sumanta-k" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./public/pictures/github-profile.jpeg" alt="sumanta-k" /></a> </p>
 
 - 🔭 I’m currently working on **backend-node.js**
 
@@ -14,6 +14,7 @@
 - 📫 How to reach me **mohantasumanta601@gmail.com**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -29,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanta-k&show_icons=true&locale=en&layout=compact" alt="sumanta-k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanta-k&show_icons=true&locale=en" alt="sumanta-k" /></p>
+<p>&nbsp;<img align="center" src="./public/pictures/github-profile.jpeg" alt="sumanta-k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanta-k&" alt="sumanta-k" /></p>
+<p><img align="center" src="./public/pictures/github-profile.jpeg" alt="sumanta-k" /></p>
