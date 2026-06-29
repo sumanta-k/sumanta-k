@@ -33,7 +33,7 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img width="50%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDUxdnpwdG9yc3JqdnpuM3hzajA4b2diOTVuZGxpc2xlOGJoc3I4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rS6hNEBJYqy3Tfo9yS/giphy.gif"</p>
+<img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDUxdnpwdG9yc3JqdnpuM3hzajA4b2diOTVuZGxpc2xlOGJoc3I4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rS6hNEBJYqy3Tfo9yS/giphy.gif"</p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=sumanta-k&theme=tokyonight&hide_border=true"/>
