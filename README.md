@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="./public/pictures/github-profile.jpeg" alt="sumanta-k" /></p>
 
-<p><img align="center" src="./public/pictures/github-profile.jpeg" alt="sumanta-k" /></p>
+<p><img align="center" src="./public/pictures/github-profile.jpeg" alt="sumanta-k" width="350"/></p>
