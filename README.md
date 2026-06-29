@@ -33,7 +33,7 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img  src="./public/pictures/github.gif" /> </p>
+<img  src="./public/pictures/github.gif" width="50" /> </p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=sumanta-k&theme=tokyonight&hide_border=true"/>
